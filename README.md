@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Backend Development
+
+
+- 🔭 I’m currently studying on Coding Factory by AUEB
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on new exciting projects
 
