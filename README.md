@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Backend Development
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate on new exciting projects
+
+
 <!--
 **Nick8eo/Nick8eo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
