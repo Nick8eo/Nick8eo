@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently studying on Coding Factory by AUEB
-- 🌱 I’m currently learning Java
+- 🌱 I’m focused on Backend Development
 - 👯 I’m looking to collaborate on new exciting projects
 
 
